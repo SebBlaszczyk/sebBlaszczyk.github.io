@@ -12,7 +12,7 @@ Focus on a hight quality minimum viable product
 - Automated UI test (if applicable)
 - Unit tests
 - Pass checklist, log change, build + patch version and if it passes check in the change
-- Review, update snipit.io, code style guide if applicable
+- Review, update snipit.io, code style guide, github.io notes if applicable
 
 ## Bugs:
 - Debug and find issue
@@ -22,7 +22,7 @@ Focus on a hight quality minimum viable product
 - Update automated UI tests (if applicable)
 - Update unit tests (if applicable)
 - Pass checklist, log change, build + patch version and if it passes check in the change
-- Review, update snipit.io, code style guide if applicable
+- Review, update snipit.io, code style guide, github.io notes if applicable
 
 ## High level project overview process:
 ???
