@@ -6,7 +6,7 @@ Focus on a hight quality minimum viable product
 ???
 
 ## Feature/Task:
-- Plan (notes, flow chart, decision tree, pseudo code - some/all of the above + note down what sections might be affected)
+- Plan (notes, flow chart, decision tree, pseudo code - some/all of the above + note down what sections might be affected, think about what the feature/task is trying to solve, is there a better way?)
 - Implement
 - ESLint, Prettier and code review/refactor
 - Automated UI test (if applicable)
@@ -16,7 +16,7 @@ Focus on a hight quality minimum viable product
 
 ## Bugs:
 - Debug and find issue
-- Plan resolution (note down what sections might be affected)
+- Plan resolution (note down what sections might be affected, think about what you are trying to solve, is there a better way?)
 - Implement fix
 - ESLint, Prettier and code review/refactor
 - Update automated UI tests (if applicable)
